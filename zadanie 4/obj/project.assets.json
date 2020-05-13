@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Mattiison\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mattiison\\Desktop\\po zad 4\\zadanie 4\\zadanie 4.csproj",
+      "projectUniqueName": "C:\\Users\\Marcin\\Desktop\\Nowy folder (3)\\zadanie-x\\zadanie 4\\zadanie 4.csproj",
       "projectName": "zadanie 4",
-      "projectPath": "C:\\Users\\Mattiison\\Desktop\\po zad 4\\zadanie 4\\zadanie 4.csproj",
-      "packagesPath": "C:\\Users\\Mattiison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mattiison\\Desktop\\po zad 4\\zadanie 4\\obj\\",
+      "projectPath": "C:\\Users\\Marcin\\Desktop\\Nowy folder (3)\\zadanie-x\\zadanie 4\\zadanie 4.csproj",
+      "packagesPath": "C:\\Users\\Marcin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcin\\Desktop\\Nowy folder (3)\\zadanie-x\\zadanie 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mattiison\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marcin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
